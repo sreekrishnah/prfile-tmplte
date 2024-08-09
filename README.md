@@ -1,8 +1,8 @@
 [comment]: <> (<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="full">)
 <div>
-  <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+🍃;+I'm+Sritharan+Kalimuthu!;" />
-  </h2>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=5000&lines=Hello!+🍃;+I'm+Sritharan+Kalimuthu!;" />
+  </h1>
   <h3 align="center">A Cyber Addict and Software Engineer</h3>
 </div>
 
@@ -11,8 +11,8 @@
 <br>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
 <br><br>
-  <br>
- - 👨‍💻 All of my projects are available at
+
+- 👨‍💻 View my Projects at
   <p>
   <a href="https://github.com/SritharanKalimuthu"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
@@ -30,23 +30,23 @@
 - ⚡ Pronoun **Cybertech**
 <hr>
 <br>
-<h3 align="left">LANGUAGES AND TOOLS I CODE IN:</h3>
+<h4 align="left">LANGUAGES AND TOOLS I CODE IN:</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,c,php,html,css,aws,firebase,mongodb,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,python,c,php,html,css,aws,firebase,mongodb,mysql" />
   <img src="https://skillicons.dev/icons?i=react,redux,express,nextjs,nodejs,bootstrap,mui,github,tailwind,git" />
 </p>
-<h3 align="left">IDEs I USE:</h3>
+<h4 align="left">IDEs I USE:</h4>
 <p>
    <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,vim" />
 </p>
-<h3 align="left">OPERATING SYSTEM I USE:</h3>
+<h4 align="left">OPERATING SYSTEM I USE:</h4>
 <p>
     <img src="https://skillicons.dev/icons?i=linux,windows" /><br>
 </p>
 
 <hr>
 <br>
-<h3 align="left">GITHUB STATS:</h3>
+<h4 align="left">GITHUB STATS:</h4>
 <div align=center>
   <img width=380 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SritharanKalimuthu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=360 src="https://github-readme-stats-salesp07.vercel.app/api?username=SritharanKalimuthu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -55,5 +55,5 @@
 </div>
 <hr>
 <br>
-<h3 align="left">GITHUB ACTIVITY GRAPH:</h3>
+<h4 align="left">GITHUB ACTIVITY GRAPH:</h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SritharanKalimuthu&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Srithar"/>
