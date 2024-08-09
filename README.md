@@ -32,8 +32,8 @@
 <br>
 <h3 align="left">LANGUAGES AND TOOLS I CODE IN:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,c,php,html,css,firebase,mongodb,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=react,express,nextjs,nodejs,bootstrap,mui,github,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,c,php,html,css,aws,firebase,mongodb,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=react,redux,express,nextjs,nodejs,bootstrap,mui,github,tailwind,git" />
 </p>
 <h3 align="left">IDEs I USE:</h3>
 <p>
