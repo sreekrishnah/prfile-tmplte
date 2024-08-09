@@ -39,7 +39,7 @@
 <p>
    <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,vim" />
 </p>
-<h3 align="left">OPERATING SYSTEM I WORK WITH:</h3>
+<h3 align="left">OPERATING SYSTEM I USE:</h3>
 <p>
     <img src="https://skillicons.dev/icons?i=linux,windows" /><br>
 </p>
