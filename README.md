@@ -11,7 +11,8 @@
 <br>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
 <br><br>
-  
+
+  <br>
 - 👨‍💻 All of my projects are available at
   <p>
   <a href="https://github.com/SritharanKalimuthu"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
