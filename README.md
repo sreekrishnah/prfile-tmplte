@@ -49,7 +49,7 @@
 <h3 align="left">GITHUB STATS:</h3>
 <div align=center>
   <img width=380 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SritharanKalimuthu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=360 src="https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs" alt="readme stats" />
+  <img width=360 src="https://github-readme-stats-salesp07.vercel.app/api?username=SritharanKalimuthu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=340 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SritharanKalimuthu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
