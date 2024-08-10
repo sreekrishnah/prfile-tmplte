@@ -11,12 +11,12 @@
 <br>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
 <br><br>
-
+- ⚡ Pronoun **Cybertech**
 - 👨‍💻 View my Projects at
   <p>
   <a href="https://github.com/SritharanKalimuthu"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
-
+- 🐬 Happy to help in code.
 - 📫 How to reach me
    <p>
   <a href="mailto:sritharkalimuthu@gmail.com"><img src="https://img.shields.io/badge/Gmail-8a0404?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a><a href="https://www.linkedin.com/in/sritharan-k/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -26,9 +26,6 @@
    <p>
   <a href="https://levyz-codes.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-051e63?style=for-the-badge&logo=&logoColor=white" alt="github"/></a>
 </p>
-
-- ⚡ Pronoun **Cybertech**
-- 🐬 Happy to help in code.
 - 🦍 Apes ( Developers ) are stronger together.
 <hr>
 <br>
