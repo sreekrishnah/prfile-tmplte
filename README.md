@@ -28,6 +28,8 @@
 </p>
 
 - ⚡ Pronoun **Cybertech**
+- 🐬 Happy to help in code.
+- 🦍 Apes ( Developers ) are stronger together.
 <hr>
 <br>
 <h4 align="left">LANGUAGES AND TOOLS I CODE IN:</h4>
