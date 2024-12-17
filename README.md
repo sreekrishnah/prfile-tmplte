@@ -3,7 +3,7 @@
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=5000&lines=Hello!+🍃;+I'm+Sritharan+Kalimuthu!;" />
   </h1>
-  <h3 align="center">A Cyber Addict and Software Engineer</h3>
+  <h3 align="center">A Viveka Addict and Software Engineer</h3>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SritharanKalimuthu&label=Profile%20views&color=0e75b6&style=flat" alt="SritharanKalimuthu" /> </p>
