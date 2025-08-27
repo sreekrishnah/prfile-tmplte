@@ -28,7 +28,7 @@
 
 - 📄 See my Portfolio
    <p>
-  <a href="https://levyz-codes.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-051e63?style=for-the-badge&logo=&logoColor=white" alt="github"/></a>
+  <a href="https://levyforge.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-051e63?style=for-the-badge&logo=&logoColor=white" alt="github"/></a>
 </p>
 
 - 🦍 **Fun Fact :** Apes ( Developers ) are stronger together.
