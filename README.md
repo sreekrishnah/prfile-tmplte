@@ -52,12 +52,12 @@
 <br>
 <h4 align="left">GITHUB STATS:</h4>
 <div align=center>
-  <img width=380 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SritharanKalimuthu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=360 src="https://github-readme-stats-salesp07.vercel.app/api?username=SritharanKalimuthu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=380 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sreekrishnah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=360 src="https://github-readme-stats-salesp07.vercel.app/api?username=sreekrishnah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=340 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SritharanKalimuthu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=340 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sreekrishnah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <hr>
 <br>
 <h4 align="left">GITHUB ACTIVITY GRAPH:</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SritharanKalimuthu&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Srithar"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreekrishnah&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Srithar"/>
